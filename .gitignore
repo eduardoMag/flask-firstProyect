@@ -131,3 +131,6 @@ dmypy.json
 # other
 .idea
 idea/
+
+# database
+data.sqlite
